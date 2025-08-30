@@ -3,4 +3,8 @@
 #Amjad wali
 #Mustafa wali
 #Murtaza wali
+<<<<<<< HEAD
+=======
+#Ali Zain
+>>>>>>> e52bcdf1838f4c0667e5d8f8a4ec5dce73113fdd
 
