@@ -4,9 +4,15 @@
 #Mustafa wali
 #Murtaza wali
 <<<<<<< HEAD
+<<<<<<< HEAD
 #ali shahid
 #Ali Zain
 #hell 
 it is file about name of develepor working on this project
 it is very secret project
+=======
+=======
+#Ali Zain
+>>>>>>> e52bcdf1838f4c0667e5d8f8a4ec5dce73113fdd
+>>>>>>> ce09eb76beb557e25dde610a8c21d2fcafed368e
 
