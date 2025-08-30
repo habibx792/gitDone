@@ -3,4 +3,8 @@
 #Amjad wali
 #Mustafa wali
 #Murtaza wali
+<<<<<<< HEAD
+=======
+#ali shahid
+>>>>>>> 1b22c86 (done)
 
